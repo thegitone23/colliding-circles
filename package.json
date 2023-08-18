@@ -1,0 +1,19 @@
+{
+  "name": "colliding-circles",
+  "version": "1.0.0",
+  "description": "",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^2.9.1"
+  },
+  "dependencies": {
+    "kdbush": "^4.0.2",
+    "p5": "^1.6.0"
+  }
+}
